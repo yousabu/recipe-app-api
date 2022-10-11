@@ -2,7 +2,6 @@
 Calculator Function
 """
 
-import re
 
 
 def add(x,y):
